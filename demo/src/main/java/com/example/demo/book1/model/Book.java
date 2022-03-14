@@ -1,4 +1,4 @@
-package com.example.demo.book.model;
+package com.example.demo.book1.model;
 
 public class Book {
 
